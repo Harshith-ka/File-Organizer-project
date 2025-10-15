@@ -43,7 +43,7 @@ Utilities: shutil, os, zipfile, werkzeug
 File handling: Upload, move, rename, delete, extract
 
 Project ScreenShot:-
-
+ss.png
 
 Install dependencies:
 
